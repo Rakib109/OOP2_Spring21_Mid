@@ -1,0 +1,26 @@
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.AssemblyInfoInputs.cache
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.AssemblyInfo.cs
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.exe
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.deps.json
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.runtimeconfig.json
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.runtimeconfig.dev.json
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.dll
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.pdb
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.dll
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.pdb
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.genruntimeconfig.cache
+C:\Users\rakib\Desktop\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.csprojAssemblyReference.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.exe
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.deps.json
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.runtimeconfig.json
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.runtimeconfig.dev.json
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.dll
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\bin\Debug\netcoreapp3.1\Lab2_task3.pdb
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.csprojAssemblyReference.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.AssemblyInfoInputs.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.AssemblyInfo.cs
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.dll
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.pdb
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Lab2_task3\Lab2_task3\obj\Debug\netcoreapp3.1\Lab2_task3.genruntimeconfig.cache
