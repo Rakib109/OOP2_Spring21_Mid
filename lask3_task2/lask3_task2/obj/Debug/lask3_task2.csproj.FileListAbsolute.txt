@@ -1,0 +1,2 @@
+G:\C#\lask3_task2\lask3_task2\obj\Debug\lask3_task2.csprojAssemblyReference.cache
+G:\C#\lask3_task2\lask3_task2\obj\Debug\lask3_task2.csproj.CoreCompileInputs.cache

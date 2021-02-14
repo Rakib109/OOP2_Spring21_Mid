@@ -1,0 +1,6 @@
+G:\C#\lab3_task3\lab3_task3\bin\Debug\lab3_task3.exe.config
+G:\C#\lab3_task3\lab3_task3\bin\Debug\lab3_task3.exe
+G:\C#\lab3_task3\lab3_task3\bin\Debug\lab3_task3.pdb
+G:\C#\lab3_task3\lab3_task3\obj\Debug\lab3_task3.csproj.CoreCompileInputs.cache
+G:\C#\lab3_task3\lab3_task3\obj\Debug\lab3_task3.exe
+G:\C#\lab3_task3\lab3_task3\obj\Debug\lab3_task3.pdb
