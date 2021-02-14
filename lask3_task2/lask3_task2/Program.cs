@@ -1,23 +1,33 @@
 ﻿using System;
-
-using System.Collections.Generic;
-
-using System.Text;
-
-public static void Main()
+public class Program
 {
-    int[] array = new int[10];
-    for (int i = 0; i < array.Length; i++)
-    {
-        array[i] = Convert.ToInt32(Console.ReadLine());
-    }
-    var dict = new Dictionary<int, int>();
-    foreach (var value in array)
-    {
-        if (dict.ContainsKey(value)) dict[value]++;
-        else dict[value] = 1;
-    }
-    foreach (var pair in dict)
-        Console.WriteLine("Value {0} occurred {1} times", pair.Key, pair.Value);
-    Console.ReadKey();
+	public static void Main(string[] args)
+	{
+		int i, j, v = 1;
+		int[] arr = new int[5];
+
+		Console.Write("Enter Five numbers:");
+		for (i = 0; i < arr.Length; i++)
+		{
+			arr[i] = Convert.ToInt32(Console.ReadLine());
+		}
+
+		Console.Write("duplicate elements:");
+		for (i = 0; i < arr.Length; i++)
+		{
+			for (j = i + 1; j < arr.Length; j++)
+			{
+				if (arr[i] == arr[j])
+				{
+					if (v == 1 && arr[j] != '\0')
+					{
+						Console.Write(arr[i] + " ");
+					}
+					arr[j] = '\0';
+					v++;
+				}
+			}
+			v = 1;
+		}
+	}
 }

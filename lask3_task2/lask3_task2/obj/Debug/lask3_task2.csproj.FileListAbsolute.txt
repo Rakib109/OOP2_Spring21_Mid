@@ -1,2 +1,7 @@
 G:\C#\lask3_task2\lask3_task2\obj\Debug\lask3_task2.csprojAssemblyReference.cache
 G:\C#\lask3_task2\lask3_task2\obj\Debug\lask3_task2.csproj.CoreCompileInputs.cache
+G:\C#\lask3_task2\lask3_task2\bin\Debug\lask3_task2.exe.config
+G:\C#\lask3_task2\lask3_task2\bin\Debug\lask3_task2.exe
+G:\C#\lask3_task2\lask3_task2\bin\Debug\lask3_task2.pdb
+G:\C#\lask3_task2\lask3_task2\obj\Debug\lask3_task2.exe
+G:\C#\lask3_task2\lask3_task2\obj\Debug\lask3_task2.pdb

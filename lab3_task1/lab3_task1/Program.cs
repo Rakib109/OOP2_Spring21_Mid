@@ -1,28 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 class Program
 {
-	static void Main()
-	{
+    static void Main()
+    {
+        int[] arrSource = new int[4];
+        arrSource[0] = 1;
+        arrSource[1] = 2;
+        arrSource[2] = 3;
+        arrSource[3] = 4;
 
+        int[] arrTarget = new int[2];
 
-		int[] source = new int[5];
-		source[0] = 5;
-		source[1] = 4;
-		source[2] = 3;
-		source[3] = 2;
-		source[4] = 1;
+        Array.Copy(arrSource, arrTarget, 2);
 
-
-		int[] target = new int[3];
-
-		Array.Copy(source, 0, target, 0, 3);
-
-		Console.WriteLine("--- Destination array ---");
-		foreach (int value in target)
-		{
-			Console.WriteLine(value);
-		}
-	}
+        Console.WriteLine("Destination Array ...");
+        foreach (int value in arrTarget)
+        {
+            Console.WriteLine(value);
+        }
+    }
+}
