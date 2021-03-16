@@ -1,0 +1,8 @@
+C:\Users\rakib\Desktop\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\rakib\Desktop\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\rakib\Desktop\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\rakib\Desktop\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\samsung\Downloads\C SHARP (1)\C SHARP\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
